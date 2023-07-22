@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EdisonTKPcom
 - 🌱 Visit me at edisontkp.com
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in artificial intelligence
+- 🌱 I’m currently learning AWS Cloud DevOps
+- 💞️ I’m looking to collaborate on community building.
 - 📫 How to reach me - im@edisontkp.com
 
 <!---
