@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EdisonTKPcom
 - 🌱 Visit me at edisontkp.com
-- 👀 I’m interested in artificial intelligence
+- 👀 I’m interested in artificial intelligence, blockchain and quantum computing.
 - 🌱 I’m currently learning AWS Cloud DevOps
 - 💞️ I’m looking to collaborate on community building.
 - 📫 How to reach me - im@edisontkp.com
