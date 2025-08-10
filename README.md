@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!-- Profile Header -->
-<h1 align="center">Edison Tan — building AI-native products, one agent at a time 🤖</h1>
+<h1 align="center">Edison TKP — building AI-native products, one agent at a time 🤖</h1>
 
 <p align="center">
   <a href="https://github.com/edisontkp?tab=followers">
