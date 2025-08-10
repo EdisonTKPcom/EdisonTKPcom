@@ -45,9 +45,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/edisontkp/agentic-rag-starter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edisontkp&repo=agentic-rag-starter&description_lines_count=2" />
 </a>
-<a href="https://github.com/edisontkp/solana-insurtech-anchor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edisontkp&repo=solana-insurtech-anchor&description_lines_count=2" />
-</a>
 
 <br clear="both"/>
 
