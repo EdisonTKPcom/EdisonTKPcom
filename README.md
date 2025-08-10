@@ -35,10 +35,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### 🚀 What I’m building now
-- **OnlyBoss** — AI-as-a-Service agents to run ops, support & growth (agentic workflows, LangChain/CrewAI, Qdrant, FastAPI).
-- **Pinjamax** — blockchain P2P lending rails with risk models, audits, and on-chain proofing.
-- **AI Insurance Stack** — underwriting + policy lifecycle (Solana/Anchor, NFT policies, DAO approvals, RWA integration).
-- **TechKini** — AI news agent that curates & summarizes the tech scene for SEA builders.
+
 
 > Want early access, collabs, or enterprise help? **[Open an issue](https://github.com/edisontkp/edisontkp/issues/new)** or ping me on LinkedIn/Twitter (links below).
 
