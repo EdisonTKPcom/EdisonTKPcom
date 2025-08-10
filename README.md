@@ -103,9 +103,9 @@ I help teams go **AI-native**: architecture, data pipelines, evals, governance, 
 - 🛠️ Build with me (short sprints, clear milestones)
 
 **Reach me:**  
-<a href="https://www.linkedin.com/in/PUT-YOUR-LINKEDIN">LinkedIn</a> • 
-<a href="https://x.com/PUT-YOUR-X">X/Twitter</a> • 
-<a href="mailto:hello@PUT-YOUR-DOMAIN">Email</a>
+<a href="https://www.linkedin.com/in/edisontkp">LinkedIn</a> • 
+<a href="https://x.com/edisontkp">X/Twitter</a> • 
+<a href="mailto:im@edisontkp.com">Email</a>
 
 ---
 
