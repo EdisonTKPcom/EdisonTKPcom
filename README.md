@@ -68,9 +68,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 🧭 Open-source roadmap (you can help!)
 - [ ] **Agentic RAG Starter**: production template (routing, evals, guards, tracing).  
-- [ ] **AI SQL Agent for Insurance**: schema-aware NL→SQL with safety.  
-- [ ] **Solana InsurTech Anchor**: modular programs for policy lifecycle.  
-- [ ] **OnlyBoss**: plug-and-play business agents (sales, support, ops).
+
   
 👉 Check issues labeled **good first issue** and **help wanted** across my repos:
 [![Good First Issues](https://img.shields.io/badge/Issues-good%20first%20issue-blue)](https://github.com/issues?q=is%3Aissue+is%3Aopen+user%3Aedisontkp+label%3A%22good+first+issue%22)
