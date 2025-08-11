@@ -8,13 +8,13 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Edison TKP — building AI-native products, one agent at a time 🤖</h1>
 
 <p align="center">
-  <a href="https://github.com/edisontkp?tab=followers">
-    <img alt="Follow" src="https://img.shields.io/github/followers/edisontkp?label=Follow%20%40edisontkp&style=social">
+  <a href="https://github.com/edisontkpcom?tab=followers">
+    <img alt="Follow" src="https://img.shields.io/github/followers/edisontkpcom?label=Follow%20%40edisontkp&style=social">
   </a>
-  <a href="https://github.com/edisontkp?tab=repositories&q=&type=source&language=&sort=stargazers">
-    <img alt="Stars" src="https://img.shields.io/github/stars/edisontkp?style=social">
+  <a href="https://github.com/edisontkpcom?tab=repositories&q=&type=source&language=&sort=stargazers">
+    <img alt="Stars" src="https://img.shields.io/github/stars/edisontkpcom?style=social">
   </a>
-  <a href="https://github.com/sponsors/edisontkp">
+  <a href="https://github.com/sponsors/edisontkpcom">
     <img alt="Sponsor" src="https://img.shields.io/badge/Sponsor-%E2%9D%A4%EF%B8%8F-ff69b4">
   </a>
   <img alt="From Malaysia" src="https://img.shields.io/badge/MY-Kuala%20Lumpur-1f6feb">
