@@ -47,6 +47,9 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/edisontkpcom/agentic-rag-starter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edisontkpcom&repo=agentic-rag-starter&description_lines_count=2" />
 </a>
+<a href="https://github.com/edisontkpcom/Awesome-GenBI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edisontkpcom&repo=Awesome-GenBI&description_lines_count=2" />
+</a>
 
 <br clear="both"/>
 
