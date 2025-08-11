@@ -35,15 +35,15 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### 🌟 Star these featured repos (highly curated)
-<a href="https://github.com/edisontkp/ai-engineer-cookbook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edisontkp&repo=ai-engineer-cookbook&description_lines_count=2" />
+<a href="https://github.com/edisontkpcom/ai-engineer-cookbook">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edisontkpcom&repo=ai-engineer-cookbook&description_lines_count=2" />
 </a>
-<a href="https://github.com/edisontkp/web3-engineer-cookbook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edisontkp&repo=web3-engineer-cookbook&description_lines_count=2" />
+<a href="https://github.com/edisontkpcom/web3-engineer-cookbook">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edisontkpcom&repo=web3-engineer-cookbook&description_lines_count=2" />
 </a>
 
-<a href="https://github.com/edisontkp/agentic-rag-starter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edisontkp&repo=agentic-rag-starter&description_lines_count=2" />
+<a href="https://github.com/edisontkpcom/agentic-rag-starter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edisontkpcom&repo=agentic-rag-starter&description_lines_count=2" />
 </a>
 
 <br clear="both"/>
