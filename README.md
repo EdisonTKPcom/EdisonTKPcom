@@ -76,7 +76,7 @@ You can click the Preview link to take a look at your changes.
 ### 💖 Sponsor my work
 If my work helps you ship faster, consider sponsoring to keep projects maintained and battle-tested.
 
-- **GitHub Sponsors:** 👉 **https://github.com/sponsors/edisontkp**  
+- **GitHub Sponsors:** 👉 **https://github.com/sponsors/edisontkpcom**  
 - **Perks:** priority issues, roadmap votes, private templates, quarterly office hours.  
 - **Tiers:** Indie • Team • Enterprise (custom SOW & support).
 
