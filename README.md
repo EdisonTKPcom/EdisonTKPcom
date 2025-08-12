@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 ### 🚀 What I’m building now
 
 
-> Want early access, collabs, or enterprise help? **[Open an issue]([[https://github.com/edisontkp/edisontkp/issues/new](https://github.com/edisontkpcom/edisontkpcom/issues/)](https://github.com/edisontkpcom/edisontkpcom/issues/))** or ping me on LinkedIn/Twitter (links below).
+> Want early access, collabs, or enterprise help? **[Open an issue]([[https://github.com/edisontkpcom/edisontkpcom/issues/new])** or ping me on LinkedIn/Twitter (links below).
 
 ---
 
