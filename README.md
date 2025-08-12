@@ -38,6 +38,9 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/edisontkpcom/ai-engineer-cookbook">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edisontkpcom&repo=ai-engineer-cookbook&description_lines_count=2" />
 </a>
+<a href="https://github.com/edisontkpcom/rag-n-roll-architectures">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edisontkpcom&repo=rag-n-roll-architectures&description_lines_count=2" />
+</a>
 <a href="https://github.com/edisontkpcom/web3-engineer-cookbook">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edisontkpcom&repo=web3-engineer-cookbook&description_lines_count=2" />
 </a>
@@ -49,9 +52,6 @@ You can click the Preview link to take a look at your changes.
 </a>
 <a href="https://github.com/edisontkpcom/Awesome-GenBI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edisontkpcom&repo=Awesome-GenBI&description_lines_count=2" />
-</a>
-<a href="https://github.com/edisontkpcom/rag-n-roll-architectures">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edisontkpcom&repo=rag-n-roll-architectures&description_lines_count=2" />
 </a>
 
 <br clear="both"/>
