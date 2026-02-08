@@ -82,8 +82,8 @@ You can click the Preview link to take a look at your changes.
 
   
 👉 Check issues labeled **good first issue** and **help wanted** across my repos:
-[![Good First Issues](https://img.shields.io/badge/Issues-good%20first%20issue-blue)](https://github.com/issues?q=is%3Aissue+is%3Aopen+user%3Aedisontkp+label%3A%22good+first+issue%22)
-[![Help Wanted](https://img.shields.io/badge/Issues-help%20wanted-blueviolet)](https://github.com/issues?q=is%3Aissue+is%3Aopen+user%3Aedisontkp+label%3A%22help+wanted%22)
+[![Good First Issues](https://img.shields.io/badge/Issues-good%20first%20issue-blue)](https://github.com/issues?q=is%3Aissue+is%3Aopen+user%3Aedisontkpcom+label%3A%22good+first+issue%22)
+[![Help Wanted](https://img.shields.io/badge/Issues-help%20wanted-blueviolet)](https://github.com/issues?q=is%3Aissue+is%3Aopen+user%3Aedisontkpcom+label%3A%22help+wanted%22)
 
 ---
 
@@ -98,11 +98,11 @@ If my work helps you ship faster, consider sponsoring to keep projects maintaine
 
 ### 📈 Developer stats
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=edisontkp&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=edisontkp" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=edisontkpcom&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=edisontkpcom" />
 </p>
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edisontkp&layout=compact&langs_count=10" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edisontkpcom&layout=compact&langs_count=10" />
 </p>
 
 ---
