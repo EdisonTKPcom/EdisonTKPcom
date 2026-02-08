@@ -8,13 +8,13 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Edison TKP — building AI-native products, one agent at a time 🤖</h1>
 
 <p align="center">
-  <a href="https://github.com/edisontkpcom?tab=followers">
-    <img alt="Follow" src="https://img.shields.io/github/followers/edisontkpcom?label=Follow%20%40edisontkp&style=social">
+  <a href="https://github.com/EdisonTKPcom?tab=followers">
+    <img alt="Follow" src="https://img.shields.io/github/followers/EdisonTKPcom?label=Follow%20%40edisontkp&style=social">
   </a>
-  <a href="https://github.com/edisontkpcom?tab=repositories&q=&type=source&language=&sort=stargazers">
-    <img alt="Stars" src="https://img.shields.io/github/stars/edisontkpcom?style=social">
+  <a href="https://github.com/EdisonTKPcom?tab=repositories&q=&type=source&language=&sort=stargazers">
+    <img alt="Stars" src="https://img.shields.io/github/stars/EdisonTKPcom?style=social">
   </a>
-  <a href="https://github.com/sponsors/edisontkpcom">
+  <a href="https://github.com/sponsors/EdisonTKPcom">
     <img alt="Sponsor" src="https://img.shields.io/badge/Sponsor-%E2%9D%A4%EF%B8%8F-ff69b4">
   </a>
   <img alt="From Malaysia" src="https://img.shields.io/badge/MY-Kuala%20Lumpur-1f6feb">
@@ -30,34 +30,34 @@ You can click the Preview link to take a look at your changes.
 ### 🚀 What I’m building now
 
 
-> Want early access, collabs, or enterprise help? **[Open an issue](https://github.com/edisontkpcom/edisontkpcom/issues/new/choose)** or ping me on LinkedIn/Twitter (links below).
+> Want early access, collabs, or enterprise help? **[Open an issue](https://github.com/EdisonTKPcom/EdisonTKPcom/issues/new/choose)** or ping me on LinkedIn/Twitter (links below).
 
 ---
 
 ### 🌟 Star these featured repos (highly curated)
-<a href="https://github.com/edisontkpcom/ai-engineer-cookbook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edisontkpcom&repo=ai-engineer-cookbook&description_lines_count=2" />
+<a href="https://github.com/EdisonTKPcom/ai-engineer-cookbook">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdisonTKPcom&repo=ai-engineer-cookbook&description_lines_count=2" />
 </a>
-<a href="https://github.com/edisontkpcom/rag-n-roll-architectures">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edisontkpcom&repo=rag-n-roll-architectures&description_lines_count=2" />
+<a href="https://github.com/EdisonTKPcom/rag-n-roll-architectures">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdisonTKPcom&repo=rag-n-roll-architectures&description_lines_count=2" />
 </a>
-<a href="https://github.com/edisontkpcom/Deep-Learning-Architecture-Cheatsheet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edisontkpcom&repo=Deep-Learning-Architecture-Cheatsheet&description_lines_count=2" />
+<a href="https://github.com/EdisonTKPcom/Deep-Learning-Architecture-Cheatsheet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdisonTKPcom&repo=Deep-Learning-Architecture-Cheatsheet&description_lines_count=2" />
 </a>  
-<a href="https://github.com/edisontkpcom/llm-research-stack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edisontkpcom&repo=llm-research-stack&description_lines_count=2" />
+<a href="https://github.com/EdisonTKPcom/llm-research-stack">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdisonTKPcom&repo=llm-research-stack&description_lines_count=2" />
 </a>
-<a href="https://github.com/edisontkpcom/web3-engineer-cookbook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edisontkpcom&repo=web3-engineer-cookbook&description_lines_count=2" />
+<a href="https://github.com/EdisonTKPcom/web3-engineer-cookbook">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdisonTKPcom&repo=web3-engineer-cookbook&description_lines_count=2" />
 </a>
-<a href="https://github.com/edisontkpcom/ai-device-setup">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edisontkpcom&repo=ai-device-setup&description_lines_count=2" />
+<a href="https://github.com/EdisonTKPcom/ai-device-setup">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdisonTKPcom&repo=ai-device-setup&description_lines_count=2" />
 </a>
-<a href="https://github.com/edisontkpcom/agentic-rag-starter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edisontkpcom&repo=agentic-rag-starter&description_lines_count=2" />
+<a href="https://github.com/EdisonTKPcom/agentic-rag-starter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdisonTKPcom&repo=agentic-rag-starter&description_lines_count=2" />
 </a>
-<a href="https://github.com/edisontkpcom/Awesome-GenBI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edisontkpcom&repo=Awesome-GenBI&description_lines_count=2" />
+<a href="https://github.com/EdisonTKPcom/Awesome-GenBI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdisonTKPcom&repo=Awesome-GenBI&description_lines_count=2" />
 </a>
 
 <br clear="both"/>
@@ -82,15 +82,15 @@ You can click the Preview link to take a look at your changes.
 
   
 👉 Check issues labeled **good first issue** and **help wanted** across my repos:
-[![Good First Issues](https://img.shields.io/badge/Issues-good%20first%20issue-blue)](https://github.com/issues?q=is%3Aissue+is%3Aopen+user%3Aedisontkpcom+label%3A%22good+first+issue%22)
-[![Help Wanted](https://img.shields.io/badge/Issues-help%20wanted-blueviolet)](https://github.com/issues?q=is%3Aissue+is%3Aopen+user%3Aedisontkpcom+label%3A%22help+wanted%22)
+[![Good First Issues](https://img.shields.io/badge/Issues-good%20first%20issue-blue)](https://github.com/issues?q=is%3Aissue+is%3Aopen+user%3AEdisonTKPcom+label%3A%22good+first+issue%22)
+[![Help Wanted](https://img.shields.io/badge/Issues-help%20wanted-blueviolet)](https://github.com/issues?q=is%3Aissue+is%3Aopen+user%3AEdisonTKPcom+label%3A%22help+wanted%22)
 
 ---
 
 ### 💖 Sponsor my work
 If my work helps you ship faster, consider sponsoring to keep projects maintained and battle-tested.
 
-- **GitHub Sponsors:** 👉 **https://github.com/sponsors/edisontkpcom**  
+- **GitHub Sponsors:** 👉 **https://github.com/sponsors/EdisonTKPcom**  
 - **Perks:** priority issues, roadmap votes, private templates, quarterly office hours.  
 - **Tiers:** Indie • Team • Enterprise (custom SOW & support).
 
@@ -98,11 +98,11 @@ If my work helps you ship faster, consider sponsoring to keep projects maintaine
 
 ### 📈 Developer stats
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=edisontkpcom&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=edisontkpcom" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EdisonTKPcom&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=EdisonTKPcom" />
 </p>
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edisontkpcom&layout=compact&langs_count=10" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonTKPcom&layout=compact&langs_count=10" />
 </p>
 
 ---
