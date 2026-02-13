@@ -35,32 +35,17 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### 🌟 Star these featured repos (highly curated)
-<a href="https://github.com/EdisonTKPcom/ai-engineer-cookbook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdisonTKPcom&repo=ai-engineer-cookbook&description_lines_count=2" />
-</a>
-<a href="https://github.com/EdisonTKPcom/rag-n-roll-architectures">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdisonTKPcom&repo=rag-n-roll-architectures&description_lines_count=2" />
-</a>
-<a href="https://github.com/EdisonTKPcom/Deep-Learning-Architecture-Cheatsheet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdisonTKPcom&repo=Deep-Learning-Architecture-Cheatsheet&description_lines_count=2" />
-</a>  
-<a href="https://github.com/EdisonTKPcom/llm-research-stack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdisonTKPcom&repo=llm-research-stack&description_lines_count=2" />
-</a>
-<a href="https://github.com/EdisonTKPcom/web3-engineer-cookbook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdisonTKPcom&repo=web3-engineer-cookbook&description_lines_count=2" />
-</a>
-<a href="https://github.com/EdisonTKPcom/ai-device-setup">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdisonTKPcom&repo=ai-device-setup&description_lines_count=2" />
-</a>
-<a href="https://github.com/EdisonTKPcom/agentic-rag-starter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdisonTKPcom&repo=agentic-rag-starter&description_lines_count=2" />
-</a>
-<a href="https://github.com/EdisonTKPcom/Awesome-GenBI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdisonTKPcom&repo=Awesome-GenBI&description_lines_count=2" />
-</a>
 
-<br clear="both"/>
+| Repository | Description |
+| --- | --- |
+| [**ai-engineer-cookbook**](https://github.com/EdisonTKPcom/ai-engineer-cookbook) | Hands-on cookbook of 100+ AI/ML projects & agentic LLM patterns—datasets, notebooks, and production-ready templates for real apps. |
+| [**rag-n-roll-architectures**](https://github.com/EdisonTKPcom/rag-n-roll-architectures) | A friendly, visual tour of modern Retrieval‑Augmented Generation (RAG) patterns — from Naive to Multi‑Agent. |
+| [**Deep-Learning-Architecture-Cheatsheet**](https://github.com/EdisonTKPcom/Deep-Learning-Architecture-Cheatsheet) | A quick-start guide and example collection for five major deep learning architectures. |
+| [**llm-research-stack**](https://github.com/EdisonTKPcom/llm-research-stack) | A GitHub-ready template to showcase research and engineering capabilities for LLMs, RAG, SFT, reward modeling/RLHF, evaluation, and AI agents. |
+| [**web3-engineer-cookbook**](https://github.com/EdisonTKPcom/web3-engineer-cookbook) | Minimal, well-documented patterns for wallet auth, safe contract interaction, event listening/indexing, and off-chain storage handshakes. |
+| [**ai-device-setup**](https://github.com/EdisonTKPcom/ai-device-setup) | Covers GPU/accelerator setup, Python/conda environments, Docker, CLI tools, and common AI runtimes with repeatable install steps. |
+| [**agentic-rag-starter**](https://github.com/EdisonTKPcom/agentic-rag-starter) | Go beyond "retrieve + answer" with an agent that can plan steps, call tools, and verify its own work. |
+| [**Awesome-GenBI**](https://github.com/EdisonTKPcom/Awesome-GenBI) | Ask questions in natural language. Get SQL, charts, and narratives — safely and fast. |
 
 ---
 
