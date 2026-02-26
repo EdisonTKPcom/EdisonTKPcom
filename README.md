@@ -3,7 +3,6 @@ EdisonTKPcom/EdisonTKPcom is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-
 <!-- Profile Header -->
 <h1 align="center">Edison TKP — building AI-native products, one agent at a time 🤖</h1>
 
@@ -21,46 +20,34 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
-  I design and ship <b>agentic AI systems</b>, <b>RAG platforms</b>, and <b>blockchain-powered fintech/insurtech</b> products.  
-  If you like pragmatic AI that actually deploys, you’re in the right place.
+  I design and ship <b>agentic AI systems</b>, <b>RAG platforms</b>, and <b>blockchain-powered fintech/insurtech</b> products.<br/>
+  If you like pragmatic AI that actually deploys, you're in the right place.
 </p>
 
 ---
 
-### 🚀 What I’m building now
+### 🚀 What I'm building now
 
+- 🤖 **Agentic RAG Starter** — production-ready template with routing, evals, guards & tracing
+- 📊 **Awesome-GenBI** — curated resources for Generative BI
+- ⛓️ **Web3 x AI** — smart contract + LLM hybrid workflows
 
 > Want early access, collabs, or enterprise help? **[Open an issue](https://github.com/EdisonTKPcom/EdisonTKPcom/issues/new/choose)** or ping me on LinkedIn/Twitter (links below).
 
 ---
 
-### 🌟 Star these featured repos (highly curated)
-<a href="https://github.com/EdisonTKPcom/ai-engineer-cookbook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdisonTKPcom&repo=ai-engineer-cookbook&description_lines_count=2" />
-</a>
-<a href="https://github.com/EdisonTKPcom/rag-n-roll-architectures">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdisonTKPcom&repo=rag-n-roll-architectures&description_lines_count=2" />
-</a>
-<a href="https://github.com/EdisonTKPcom/Deep-Learning-Architecture-Cheatsheet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdisonTKPcom&repo=Deep-Learning-Architecture-Cheatsheet&description_lines_count=2" />
-</a>  
-<a href="https://github.com/EdisonTKPcom/llm-research-stack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdisonTKPcom&repo=llm-research-stack&description_lines_count=2" />
-</a>
-<a href="https://github.com/EdisonTKPcom/web3-engineer-cookbook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdisonTKPcom&repo=web3-engineer-cookbook&description_lines_count=2" />
-</a>
-<a href="https://github.com/EdisonTKPcom/ai-device-setup">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdisonTKPcom&repo=ai-device-setup&description_lines_count=2" />
-</a>
-<a href="https://github.com/EdisonTKPcom/agentic-rag-starter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdisonTKPcom&repo=agentic-rag-starter&description_lines_count=2" />
-</a>
-<a href="https://github.com/EdisonTKPcom/Awesome-GenBI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdisonTKPcom&repo=Awesome-GenBI&description_lines_count=2" />
-</a>
+### 🌟 Featured repos (highly curated)
 
-<br clear="both"/>
+| Repo | About |
+|------|-------|
+| 📘 [ai-engineer-cookbook](https://github.com/EdisonTKPcom/ai-engineer-cookbook) | Practical recipes for AI engineers |
+| 📗 [rag-n-roll-architectures](https://github.com/EdisonTKPcom/rag-n-roll-architectures) | RAG system design patterns |
+| 📙 [Deep-Learning-Architecture-Cheatsheet](https://github.com/EdisonTKPcom/Deep-Learning-Architecture-Cheatsheet) | DL architecture reference |
+| 🔬 [llm-research-stack](https://github.com/EdisonTKPcom/llm-research-stack) | LLM research tooling & stack |
+| ⛓️ [web3-engineer-cookbook](https://github.com/EdisonTKPcom/web3-engineer-cookbook) | Web3 engineering recipes |
+| 💻 [ai-device-setup](https://github.com/EdisonTKPcom/ai-device-setup) | AI workstation setup guides |
+| 🚀 [agentic-rag-starter](https://github.com/EdisonTKPcom/agentic-rag-starter) | Production agentic RAG template |
+| 📊 [Awesome-GenBI](https://github.com/EdisonTKPcom/Awesome-GenBI) | Generative BI resources |
 
 ---
 
@@ -78,9 +65,10 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### 🧭 Open-source roadmap (you can help!)
-- [ ] **Agentic RAG Starter**: production template (routing, evals, guards, tracing).  
+- [ ] **Agentic RAG Starter**: production template (routing, evals, guards, tracing)
+- [ ] **LLM Research Stack**: modular benchmarking suite
+- [ ] **GenBI**: open dataset + eval harness
 
-  
 👉 Check issues labeled **good first issue** and **help wanted** across my repos:
 [![Good First Issues](https://img.shields.io/badge/Issues-good%20first%20issue-blue)](https://github.com/issues?q=is%3Aissue+is%3Aopen+user%3AEdisonTKPcom+label%3A%22good+first+issue%22)
 [![Help Wanted](https://img.shields.io/badge/Issues-help%20wanted-blueviolet)](https://github.com/issues?q=is%3Aissue+is%3Aopen+user%3AEdisonTKPcom+label%3A%22help+wanted%22)
@@ -90,8 +78,8 @@ You can click the Preview link to take a look at your changes.
 ### 💖 Sponsor my work
 If my work helps you ship faster, consider sponsoring to keep projects maintained and battle-tested.
 
-- **GitHub Sponsors:** 👉 **https://github.com/sponsors/EdisonTKPcom**  
-- **Perks:** priority issues, roadmap votes, private templates, quarterly office hours.  
+- **GitHub Sponsors:** 👉 **https://github.com/sponsors/EdisonTKPcom**
+- **Perks:** priority issues, roadmap votes, private templates, quarterly office hours.
 - **Tiers:** Indie • Team • Enterprise (custom SOW & support).
 
 ---
@@ -99,7 +87,7 @@ If my work helps you ship faster, consider sponsoring to keep projects maintaine
 ### 📈 Developer stats
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=EdisonTKPcom&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=EdisonTKPcom" />
+  <img height="165" src="https://streak-stats.demolab.com?user=EdisonTKPcom" />
 </p>
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonTKPcom&layout=compact&langs_count=10" />
@@ -113,9 +101,9 @@ I help teams go **AI-native**: architecture, data pipelines, evals, governance, 
 - 🧪 POCs & audits (LLM safety, retrieval quality, smart contracts)
 - 🛠️ Build with me (short sprints, clear milestones)
 
-**Reach me:**  
-<a href="https://www.linkedin.com/in/edisontkp">LinkedIn</a> • 
-<a href="https://x.com/edisontkp">X/Twitter</a> • 
+**Reach me:**
+<a href="https://www.linkedin.com/in/edisontkp">LinkedIn</a> •
+<a href="https://x.com/edisontkp">X/Twitter</a> •
 <a href="mailto:im@edisontkp.com">Email</a>
 
 ---
